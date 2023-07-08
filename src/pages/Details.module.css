@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  font-family: Inter;
+  background: #FAFAFC;
+}
+
+.container {
+  padding: 2%;
+}
+
+.details {
+  display: flex;
+  margin-top: 4%;
+}
+
+.img {
+  width: 450px;
+  height: auto;
+  margin-left: 5%;
+}
+
+.name {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  color: #1C2630;
+}
+
+.price {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 21px;
+  color: #1C2630;
+}
+
+.des {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  color: #1C2630;
+}
+
+@media (max-width: 600px) {
+  .container {
+    padding: 1%;
+  }
+
+  .details {
+    flex-direction: column;
+    margin-top: 2%;
+  }
+
+  .img {
+    width: 100%;
+    margin-left: 0;
+    margin-bottom: 10px;
+  }
+
+  .name {
+    font-size: 18px;
+  }
+
+  .price {
+    font-size: 17px;
+  }
+
+  .des {
+    font-size: 16px;
+  }
+}

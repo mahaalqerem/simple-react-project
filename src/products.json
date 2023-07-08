@@ -1,0 +1,74 @@
+ 
+ [
+    {
+      "id": 1,
+      "name": "RIPSTOP GOLF BLACK",
+      "price": 35,
+      "imageUrl": "../assets/Product1.png",
+      "description": "This product is excluded from all promotional discounts and offers."
+    },
+    {
+      "id": 2,
+      "name": "RIPSTOP GOLF OLIVE",
+      "price": 35,
+      "imageUrl": "imagesProduct/Product2.png",
+      "description": "This product is excluded from all promotional discounts and offers."
+    },
+    {
+      "id": 3,
+      "name": "INDIGO HERZ FUR",
+      "price": 20,
+      "imageUrl": "imagesProduct/Product3.png",
+      "description": "This product is excluded from all promotional discounts and offers."
+    },
+    {
+      "id": 4,
+      "name": "ADIDAS X MARIMEKKO",
+      "price": 28,
+      "imageUrl": "imagesProduct/Product4.png",
+      "description": "This product is excluded from all promotional discounts and offers."
+    },
+    {
+      "id": 5,
+      "name": "ESSENTIALS WARM-UP",
+      "price": 55,
+      "imageUrl": "imagesProduct/Product5.png",
+      "description": "This product is excluded from all promotional discounts and offers."
+    },
+    {
+      "id": 6,
+      "name": "TRAIN ESSENTIALS TRAINING",
+      "price": 35,
+      "imageUrl": "imagesProduct/Product6.png",
+      "description": "This product is excluded from all promotional discounts and offers."
+    },
+    {
+      "id": 7,
+      "name": "TRAIN ICONS 3-STRIPES",
+      "price": 45,
+      "imageUrl": "imagesProduct/Product7.png",
+      "description": "This product is excluded from all promotional discounts and offers."
+    },
+    {
+      "id": 8,
+      "name": "ESSENTIALS LONG SLEEVE",
+      "price": 20,
+      "imageUrl": "imagesProduct/Product8.png",
+      "description": "This product is excluded from all promotional discounts and offers."
+    },
+    {
+      "id": 9,
+      "name": "ADICOLOR CLASSICS",
+      "price": 28,
+      "imageUrl": "imagesProduct/Product9.png",
+      "description": "This product is excluded from all promotional discounts and offers."
+    },
+    {
+      "id": 10,
+      "name": "CITY ESCAPE TEE",
+      "price": 20,
+      "imageUrl": "imagesProduct/Product10.png",
+      "description": "This product is excluded from all promotional discounts and offers."
+    }
+  ]
+  

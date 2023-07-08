@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ZERA-Store/static/css/main.b0db8cd7.css",
+    "main.js": "/ZERA-Store/static/js/main.a38ef420.js",
+    "static/js/787.34599137.chunk.js": "/ZERA-Store/static/js/787.34599137.chunk.js",
+    "static/media/Product7.png": "/ZERA-Store/static/media/Product7.0a97876d1dd5e4beca09.png",
+    "static/media/Product4.png": "/ZERA-Store/static/media/Product4.57ac2dfafe83161735bf.png",
+    "static/media/Product2.png": "/ZERA-Store/static/media/Product2.aec4ee2e16dfca3b573c.png",
+    "static/media/Product8.png": "/ZERA-Store/static/media/Product8.70e7077abde017dad47b.png",
+    "static/media/Product9.png": "/ZERA-Store/static/media/Product9.4d716e6b3867532603a7.png",
+    "static/media/Product6.png": "/ZERA-Store/static/media/Product6.6ef885a1403683409887.png",
+    "static/media/Product10.png": "/ZERA-Store/static/media/Product10.b298beed0a394d8d48da.png",
+    "static/media/Product5.png": "/ZERA-Store/static/media/Product5.0728ad022c5160bfd85e.png",
+    "static/media/Product1.png": "/ZERA-Store/static/media/Product1.7ee909bf83d53aec294a.png",
+    "static/media/Product3.png": "/ZERA-Store/static/media/Product3.6a5d0eec00aa6b48c5ad.png",
+    "static/media/Product2A.png": "/ZERA-Store/static/media/Product2A.025a4eb8118307412d33.png",
+    "static/media/Product2C.png": "/ZERA-Store/static/media/Product2C.916df4faf68b258c03f7.png",
+    "static/media/icon-zera.png": "/ZERA-Store/static/media/icon-zera.3c2425ad261b125a2335.png",
+    "index.html": "/ZERA-Store/index.html",
+    "main.b0db8cd7.css.map": "/ZERA-Store/static/css/main.b0db8cd7.css.map",
+    "main.a38ef420.js.map": "/ZERA-Store/static/js/main.a38ef420.js.map",
+    "787.34599137.chunk.js.map": "/ZERA-Store/static/js/787.34599137.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0db8cd7.css",
+    "static/js/main.a38ef420.js"
+  ]
+}
